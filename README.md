@@ -1,2 +1,2 @@
-# Trainning-list-
+# Trainning-list
 Mój trening
